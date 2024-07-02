@@ -1,3 +1,19 @@
+## Nextjs + Docker
+
+First run this command 
+
+```bash
+npm install
+# then
+npm run build
+```
+
+Second 
+
+```bash
+docker-compose up
+```
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
